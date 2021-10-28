@@ -1,0 +1,11 @@
+C:\Users\akaki bulia\Desktop\WindowsFormsApp-master\WindowsFormsApp-master\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\akaki bulia\Desktop\WindowsFormsApp-master\WindowsFormsApp-master\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\akaki bulia\Desktop\WindowsFormsApp-master\WindowsFormsApp-master\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\akaki bulia\Desktop\WindowsFormsApp-master\WindowsFormsApp-master\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\akaki bulia\Desktop\WindowsFormsApp-master\WindowsFormsApp-master\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\akaki bulia\Desktop\WindowsFormsApp-master\WindowsFormsApp-master\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\akaki bulia\Desktop\WindowsFormsApp-master\WindowsFormsApp-master\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\akaki bulia\Desktop\WindowsFormsApp-master\WindowsFormsApp-master\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\akaki bulia\Desktop\WindowsFormsApp-master\WindowsFormsApp-master\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\akaki bulia\Desktop\WindowsFormsApp-master\WindowsFormsApp-master\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\akaki bulia\Desktop\WindowsFormsApp-master\WindowsFormsApp-master\WindowsFormsApp\obj\Debug\WindowsFormsApp.teacherform.resources

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <user>
+    <id>1</id>
+    <username>t1</username>
+    <name>t1</name>
+    <lastname>t1</lastname>
+    <password>t1</password>
+    <role>teacher</role>
+    <Course>c#</Course>
+  </user>
+  <user>
+    <id>2</id>
+    <username>t12</username>
+    <name>t12</name>
+    <lastname>t12</lastname>
+    <password>t12</password>
+    <role>teacher</role>
+    <Course>c#</Course>
+  </user>
+  <user>
+    <id>3</id>
+    <username>s1</username>
+    <name>s1</name>
+    <lastname>s1</lastname>
+    <password>s1</password>
+    <role>student</role>
+    <Course>c#</Course>
+  </user>
+</Users>
